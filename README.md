@@ -6,3 +6,5 @@
 beschrieben. 
 
 **Status:** Bisher wurde nur das Repositorium angelegt. Ein Beispiel habe ich noch nicht ausgesucht.
+
+Bei Fragen gerne [melden](mailto:b.lelgemnn76@gmail.com).
