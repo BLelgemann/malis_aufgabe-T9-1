@@ -1,6 +1,6 @@
 ## Hausarbeit im SS2020
 
-**Autor:** Britta Lelgemann / **Tandempartner:** Meike Rietz
+**Autorin:** Britta Lelgemann / **Tandempartnerin:** Meike Rietz
 
 **Inhalt:** Innerhalb dieser Hausarbeit werden datenintensive bzw. datenfokussierte Prozesse im Rahmen der Bibliotheksarbeit der Macromedia Library
 beschrieben. 
