@@ -1,4 +1,4 @@
-## Hausarbeit im SS2020
+## Modul: Data Science / A1
 
 **Autorin:** Britta Lelgemann / **Tandempartnerin:** Meike Rietz
 
