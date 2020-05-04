@@ -1,64 +1,69 @@
 
-## Der Nutzerdatenimport von der Campus-Management-Software academyFIVE in das Bibliotheksystem KOHA der Macromedia Library
+## Der Nutzerdatenimport von dem Campus Management System *academyFIVE* in das Bibliotheksystem *KOHA* der Macromedia Library
 
 ### Inhaltsverzeichnis
 **1.** [Einleitung](#Einleitung) 
 
-**2.** [Die Macromedia Library](<a name="Die Macromedia Library" />) 
-* [Organisationsstruktur](<a name="Organisationsstruktur" />) 
-* [Nutzergruppen](<a name="Nutzergruppen" />) 
+**2.** [Die Macromedia Library](#macromedialibrary) 
+* [Organisationsstruktur](#Organisationsstruktur) 
+* [Nutzergruppen](#Nutzergruppen) 
 
-**3.** [Das Macromedia Library Bibliothekssystem](<a name="Das Macromedia Library Bibliothekssystem" />) 
-* [Hosting durch das BSZ](<a name="" />) 
-* [Das Bibliothekssystem Koha](<a name="Hosting durch das BSZ]" />) 
-* [Der OPAC](<a name="Der OPAC" />) 
+**3.** [Das Macromedia Library Bibliothekssystem](#Bibliothekssystem) 
+* [Hosting durch das BSZ](#Hosting) 
+* [Das Bibliothekssystem Koha](#Koha) 
+* [Der OPAC](#OPAC) 
 
-**4.** [academyFIVE – Die Campus Management Software](<a name="academyFIVE – Die Campus Management Software" />) 
-* [Funktionen](<a name="Funktionen" />) 
-* [Personengruppen](<a name="Personengruppen" />) 
-* [Datenpflege und Aktualisierung](<a name="Datenpflege und Aktualisierung" />) 
+**4.** [academyFIVE – Die Campus Management Software](#academyFIVE) 
+* [Funktionen](#Funktionen) 
+* [Personengruppen](#Personengruppen) 
+* [Datenpflege und Aktualisierung](#Datenpflege) 
 
-**5.** [Nutzerdatenimport](<a name="Nutzerdatenimport" />) 
-* [Prozess](<a name="Prozess" />) 
-* [Probleme](<a name="Probleme" />) 
-* [Verbesserungsvorschläge](<a name="Verbesserungsvorschläge" />) 
+**5.** [Nutzerdatenimport](#Nutzerdatenimport) 
+* [Prozess](#Prozess) 
+* [Probleme](#Probleme) 
+* [Verbesserungsvorschläge](#Verbesserungsvorschläge) 
 
-[Quellen](<a name="Quellen" />) 
+**6.** [Fazit](#Fazit) 
+
+  [Quellen](#Quellen) 
+
 
 
 ### 1. Einleitung <a name="Einleitung" /></a>
 
-### 2. Die Macromedia Library
+### 2. Die Macromedia Library <a name="macromedialibrary" /></a>
 
-   #### 2.1 Organisationsstruktur
+   #### 2.1 Organisationsstruktur <a name="Organisationsstruktur" /></a>
    
-   #### 2.2 Nutzergruppen
+   #### 2.2 Nutzergruppen <a name="Nutzergruppen" /></a>
    
-### 3. Das Macromedia Library Bibliothekssystem
+### 3. Das Macromedia Library Bibliothekssystem <a name="Bibliothekssystem" /></a>
 
-   #### 3.1 Hosting durch das BSZ
+   #### 3.1 Hosting durch das BSZ <a name="Hosting" /></a>
    
-   #### 3.2 Das Bibliothekssystem Koha 
+   #### 3.2 Das Bibliothekssystem Koha <a name="Koha" /></a>
    
-   #### 3.3 Der OPAC
+   #### 3.3 Der OPAC <a name="OPAC" /></a>
    
-### 4. academyFIVE – Die Campus Management Software
+### 4. academyFIVE – Die Campus Management Software <a name="academyFIVE" /></a>
 
-   #### 4.1 Funktionen
+   #### 4.1 Funktionen  <a name="Funktionen"> /</a>
    
-   #### 4.2 Personengruppen
+   #### 4.2 Personengruppen <a name="Personengruppen" /></a>
    
-   #### 4.3 Datenpflege und Aktualisierung
+   #### 4.3 Datenpflege und Aktualisierung <a name="Datenpflege" /></a>
    
-### 5. Nutzerdatenimport
+### 5. Nutzerdatenimport <a name="Nutzerdatenimport" /></a>
 
-   #### 5.1 Prozess
+   #### 5.1 Prozess <a name="Prozess" /></a>
    
-   #### 5.2 Probleme
+   #### 5.2 Probleme <a name="Probleme" /></a>
    
-   #### 5.3 Verbesserungsvorschläge
+   #### 5.3 Verbesserungsvorschläge <a name="Verbesserungsvorschläge" /></a>
+
+### 6. Fazit <a name="Fazit" /></a>
    
-### Quellen
+### Quellen <a name="Quellen" /></a>
 
 
 
