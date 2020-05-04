@@ -47,7 +47,7 @@
    
 ### 4. academyFIVE – Die Campus Management Software <a name="academyFIVE" /></a>
 
-   #### 4.1 Funktionen  <a name="Funktionen"> /</a>
+   #### 4.1 Funktionen  <a name="Funktionen"></a>
    
    #### 4.2 Personengruppen <a name="Personengruppen" /></a>
    
