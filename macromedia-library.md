@@ -2,7 +2,7 @@
 ## Der Nutzerdatenimport von der Campus-Management-Software academyFIVE in das Bibliotheksystem KOHA der Macromedia Library
 
 ### Inhaltsverzeichnis
-**1.** [Einleitung](<a name="Einleitung" />) 
+**1.** [Einleitung](#Einleitung) 
 
 **2.** [Die Macromedia Library](<a name="Die Macromedia Library" />) 
 * [Organisationsstruktur](<a name="Organisationsstruktur" />) 
@@ -26,7 +26,7 @@
 [Quellen](<a name="Quellen" />) 
 
 
-### 1. Einleitung
+### 1. Einleitung <a name="Einleitung" /></a>
 
 ### 2. Die Macromedia Library
 
