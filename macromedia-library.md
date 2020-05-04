@@ -1,5 +1,5 @@
 
-## Der Nutzerdatenimport von dem Campus Management System *academyFIVE* in das Bibliotheksystem *KOHA* der Macromedia Library
+## Der Nutzerdatenimport von der Campus Management Software *academyFIVE* in das Bibliotheksystem *KOHA* der Macromedia Library
 
 ### Inhaltsverzeichnis
 **1.** [Einleitung](#Einleitung) 
