@@ -65,5 +65,6 @@
    
 ### Quellen <a name="Quellen" /></a>
 
+Simovative GmbH. (2020, April 28). Simovative GmbH | academyFIVE - Campus Management Software. Abgerufen 5. Mai 2020, von [https://www.simovative.com/de/](https://www.simovative.com/de/)      
 
-
+  
