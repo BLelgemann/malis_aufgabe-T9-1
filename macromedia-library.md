@@ -4,8 +4,7 @@
 ### Inhaltsverzeichnis
 **1.** [Einleitung](#Einleitung) 
 
-**2.** [Die Macromedia Library](#macromedialibrary) 
-* [Organisationsstruktur](#Organisationsstruktur)  
+**2.** [Organisationsstruktur der Macromedia Library](#macromedialibrary) 
 
 **3.** [Das Macromedia Library Bibliothekssystem](#Bibliothekssystem) 
 * [Hosting durch das BSZ](#Hosting) 
@@ -30,9 +29,7 @@
 
 ### 1. Einleitung <a name="Einleitung" /></a>
 
-### 2. Die Macromedia Library <a name="macromedialibrary" /></a>
-
-   #### 2.1 Organisationsstruktur <a name="Organisationsstruktur" /></a>
+### 2. Organisationsstruktur der Macromedia Library <a name="macromedialibrary" /></a>
 
 Die Hochschule Macromedia hat insgesamt sieben Standorte in ganz Deutschland, mit jeweils einer physischen Bibliothek. Die
 Standortbibliotheken teilen einen OPAC, der über das Bibliothekssystem Koha bereitgestellt
