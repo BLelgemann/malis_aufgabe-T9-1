@@ -34,7 +34,7 @@ Die Hochschule Macromedia hat insgesamt sieben Standorte in ganz Deutschland, mi
 Standortbibliotheken teilen einen OPAC, der über das Bibliothekssystem Koha bereitgestellt
 wird. Da sowohl das Bibliothekspersonal als auch die IT-Abteilung je Standort in der Regel nur mit einer Person besetzt wird und
 die zentrale IT-Abteilung hauptsächlich mit der Wartung des Firmenservers beschäftigt ist, werden IT-bezogene
-Bibliotheksdienste generell durch externe Anbieter gewartet. So wird das Bibliothekssystem Koha bzw. Die dahinterliegende
+Bibliotheksdienste generell durch externe Anbieter gewartet. So wird das Bibliothekssystem Koha bzw. die dahinterliegende
 Datenbank durch das Bibliotheksservice-Zentrum Baden-Württemberg (BSZ) gehostet. 
   
 ### 3. Das Macromedia Library Bibliothekssystem <a name="Bibliothekssystem" /></a>
@@ -54,7 +54,7 @@ Benutzerausweise gedruckt und der gesamte Bestell- sowie Fernleihe-Prozess abgew
 Koha vor allem für die Ausleihe und die Rückgabe von Medien verwendet, für das Mahnwesen, für Inventuren und für die
 Bereitstellung des lokalen OPAC, inklusive Nutzerkonto. Koha ist mit der hauseigenen Datenbank AC5 verknüpft, wodurch
 Studierende und Lehrende sowie Mitarbeiter_innen der Verwaltung im Bibliothekssystem automatisch als Nutzer_innen anlegt werden. 
-Eine manuelle Benutzer_innen-Anlegung ist theoretisch möglich, allerdings muss die Person zunächst in AC5 eingepflegt werden 
+Eine manuelle Benutzer_innen-Anlegung ist theoretisch möglich, allerdings muss die Person zunächst in AC5 eingepflegt worden 
 sein, da sich die Bibliotheksausweisnummer aus der AC5-Registrierungsnummer ergibt. Diese Nummer korrespondiert mit dem
 Studierendenausweis oder dem Dozierendenausweis. 
 
