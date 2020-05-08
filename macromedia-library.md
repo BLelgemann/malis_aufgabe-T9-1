@@ -9,7 +9,6 @@
 **3.** [Das Macromedia Library Bibliothekssystem](#Bibliothekssystem) 
 * [Hosting durch das BSZ](#Hosting) 
 * [Das Bibliothekssystem Koha](#Koha) 
-* [Der OPAC](#OPAC) 
 
 **4.** [academyFIVE – Die Campus Management Software](#academyFIVE) 
 * [Funktionen](#Funktionen) 
