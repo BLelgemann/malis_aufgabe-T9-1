@@ -6,20 +6,20 @@
 
 **2.** [Organisationsstruktur der Macromedia Library](#macromedialibrary) 
 
-**3.** [Das Macromedia Library Bibliothekssystem](#Bibliothekssystem) 
-* [Hosting durch das BSZ](#Hosting) 
-* [Das Bibliothekssystem Koha](#Koha) 
-* [Der OPAC](#OPAC) 
+**3.** [Das Macromedia Library Bibliothekssystem](#Bibliothekssystem)    
+       3.1 [Hosting durch das BSZ](#Hosting)    
+       3.2 [Das Bibliothekssystem Koha](#Koha)    
+       3.3 [Der OPAC](#OPAC)    
 
-**4.** [academyFIVE – Die Campus Management Software](#academyFIVE) 
-* [Funktionen](#Funktionen) 
-* [Personengruppen](#Personengruppen) 
-* [Datenpflege und Aktualisierung](#Datenpflege) 
+**4.** [academyFIVE – Die Campus Management Software](#academyFIVE)     
+       4.1 [Funktionen](#Funktionen)    
+       4.2 [Personengruppen](#Personengruppen)     
+       4.3 [Datenpflege und Aktualisierung](#Datenpflege)     
 
-**5.** [Nutzerdatenimport](#Nutzerdatenimport) 
-* [Prozess](#Prozess) 
-* [Probleme](#Probleme) 
-* [Verbesserungsvorschläge](#Verbesserungsvorschläge) 
+**5.** [Nutzerdatenimport](#Nutzerdatenimport)     
+       5.1 [Prozess](#Prozess)     
+       5.2 [Probleme](#Probleme)     
+       5.3 [Verbesserungsvorschläge](#Verbesserungsvorschläge)     
 
 **6.** [Fazit](#Fazit) 
 
