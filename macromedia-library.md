@@ -8,8 +8,7 @@
 
 **3.** [Das Macromedia Library Bibliothekssystem](#Bibliothekssystem)    
        3.1 [Hosting durch das BSZ](#Hosting)    
-       3.2 [Das Bibliothekssystem Koha](#Koha)    
-       3.3 [Der OPAC](#OPAC)    
+       3.2 [Das Bibliothekssystem Koha](#Koha)      
 
 **4.** [academyFIVE – Die Campus Management Software](#academyFIVE)     
        4.1 [Funktionen](#Funktionen)    
@@ -35,7 +34,7 @@ Die Hochschule Macromedia hat insgesamt sieben Standorte in ganz Deutschland, mi
 Standortbibliotheken teilen einen OPAC, der über das Bibliothekssystem Koha bereitgestellt
 wird. Da sowohl das Bibliothekspersonal als auch die IT-Abteilung je Standort in der Regel nur mit einer Person besetzt wird und
 die zentrale IT-Abteilung hauptsächlich mit der Wartung des Firmenservers beschäftigt ist, werden IT-bezogene
-Bibliotheksdienste generell durch externe Anbieter gewartet. So wird das Bibliothekssystem Koha bzw. Die dahinterliegende
+Bibliotheksdienste generell durch externe Anbieter gewartet. So wird das Bibliothekssystem Koha bzw. die dahinterliegende
 Datenbank durch das Bibliotheksservice-Zentrum Baden-Württemberg (BSZ) gehostet. 
   
 ### 3. Das Macromedia Library Bibliothekssystem <a name="Bibliothekssystem" /></a>
@@ -45,8 +44,8 @@ Datenbank durch das Bibliotheksservice-Zentrum Baden-Württemberg (BSZ) gehostet
 Die Macromedia Library ist Mitglied des Südwestdeutschen Bibliotheksverbundes (SWB). Das daran angeschlossene 
 Bibliotheksservice-Zentrum Baden-Württemberg (BSZ) ist, wie beschrieben, für das Hosting der mit Koha verbundenen Datenbank
 zuständig: "Das BSZ unterstützt die Bibliothek bei der Datenmigration aus vorhandenen Systemen und übernimmt die Daten aus dem
-SWB-Verbund direkt nach Koha" (BSZ, o.D.). Für die Übermittlung von Katalog-Daten wird den Teilnehmern des SWB-Verbundsystems
-der Katalogisierungsclient WinIBW von OCLC zur Verfügung gestellt (BSZ, o.D.).   
+SWB-Verbund direkt nach Koha" (BSZ, o.D.). Für die Übermittlung von Katalog-Daten wird den Mitgliedern des SWB-
+Verbundsystems der Katalogisierungsclient WinIBW von OCLC zur Verfügung gestellt (BSZ, o.D.).   
    
    #### 3.2 Das Bibliothekssystem Koha <a name="Koha" /></a>
 
@@ -54,9 +53,9 @@ Koha erfüllt (fast) alle Anforderungen, die an ein Next-Generation-Bibliotheksm
 Benutzerausweise gedruckt und der gesamte Bestell- sowie Fernleihe-Prozess abgewickelt werden. An der Macromedia Library wird
 Koha vor allem für die Ausleihe und die Rückgabe von Medien verwendet, für das Mahnwesen, für Inventuren und für die
 Bereitstellung des lokalen OPAC, inklusive Nutzerkonto. Koha ist mit der hauseigenen Datenbank AC5 verknüpft, wodurch
-Studierende und Lehrende sowie Mitarbeiter der Verwaltung im Bibliothekssystem automatisch als Nutzer anlegt werden. Eine
-manuelle Benutzer-Anlegung ist theoretisch möglich, allerdings muss die Person zunächst in AC5 eingepflegt werden sein, da sich
-die Bibliotheksausweisnummer aus der AC5-Registrierungsnummer ergibt. Diese Nummer korrespondiert mit dem
+Studierende und Lehrende sowie Mitarbeiter_innen der Verwaltung im Bibliothekssystem automatisch als Nutzer_innen anlegt werden. 
+Eine manuelle Benutzer_innen-Anlegung ist theoretisch möglich, allerdings muss die Person zunächst in AC5 eingepflegt worden 
+sein, da sich die Bibliotheksausweisnummer aus der AC5-Registrierungsnummer ergibt. Diese Nummer korrespondiert mit dem
 Studierendenausweis oder dem Dozierendenausweis. 
 
 ### 4. academyFIVE – Die Campus Management Software <a name="academyFIVE" /></a>
