@@ -3,11 +3,11 @@
 
 [1. Organisationsstruktur der Macromedia Library](#macromedialibrary)  
 [2. Das Macromedia Library Bibliothekssystem](#Bibliothekssystem)  
-    3.1 [2.1 Hosting durch das BSZ](#Hosting)    
-    3.2 [2.2 Das Bibliothekssystem Koha](#Koha)      
+    [2.1 Hosting durch das BSZ](#Hosting)    
+    [2.2 Das Bibliothekssystem Koha](#Koha)      
 [3. academyFIVE – Die Campus Management Software](#academyFIVE)     
-    3.1 [3.1 Funktionen](#Funktionen)         
-    3.2 [3.2 Datenpflege](#Datenpflege)     
+    [3.1 Funktionen](#Funktionen)         
+    [3.2 Datenpflege](#Datenpflege)     
 [4. Nutzerdatenimport von academyFIVE nach Koha - Probleme und Verbesserungsvorschläge](#Nutzerdatenimport)      
 [Quellen](#Quellen) 
 
