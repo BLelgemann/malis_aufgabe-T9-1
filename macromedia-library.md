@@ -1,14 +1,14 @@
 
 ## Der Nutzerdatenimport von der Campus Management Software *academyFIVE* in das Bibliotheksystem *KOHA* der Macromedia Library
 
-**1.** [Organisationsstruktur der Macromedia Library](#macromedialibrary) 
-**2.** [Das Macromedia Library Bibliothekssystem](#Bibliothekssystem)    
-       3.1 [Hosting durch das BSZ](#Hosting)    
-       3.2 [Das Bibliothekssystem Koha](#Koha)      
-**3.** [academyFIVE – Die Campus Management Software](#academyFIVE)     
-       3.1 [Funktionen](#Funktionen)         
-       3.2 [Datenpflege und Aktualisierung](#Datenpflege)     
-**4.** [Nutzerdatenimport von academyFIVE nach Koha - Probleme und Verbesserungsvorschläge](#Nutzerdatenimport)      
+[1. Organisationsstruktur der Macromedia Library](#macromedialibrary)  
+[2. Das Macromedia Library Bibliothekssystem](#Bibliothekssystem)  
+    3.1 [2.1 Hosting durch das BSZ](#Hosting)    
+    3.2 [2.2 Das Bibliothekssystem Koha](#Koha)      
+[3. academyFIVE – Die Campus Management Software](#academyFIVE)     
+    3.1 [3.1 Funktionen](#Funktionen)         
+    3.2 [3.2 Datenpflege](#Datenpflege)     
+[4. Nutzerdatenimport von academyFIVE nach Koha - Probleme und Verbesserungsvorschläge](#Nutzerdatenimport)      
 [Quellen](#Quellen) 
 
 
@@ -50,7 +50,7 @@ Hinter „Internetauftritt“ verbirgt sich die *Community* bzw. das Dozierenden
 
 Allerdings werden nicht alle Bereiche des Systems genutzt, wie z.B. der Bereich „Kursmanagement“, da die Stunden- und Raumplanung über die Stundenplansoftware *WebUntis* organisiert wird.
    
-   #### 3.2 Datenpflege und Aktualisierung <a name="Datenpflege" /></a>
+   #### 3.2 Datenpflege <a name="Datenpflege" /></a>
 
 Die Datenpflege und Aktualisierung in AC5 wird durch die Verwaltungsmitarbeiter der Hochschule vorgenommen. Diese haben, je nach Zuständigkeit bzw. Abteilung, unterschiedliche Zugriffsrechte. Ferner können Studierende und Dozierende ihre Kontaktdaten über die Community selbstständig aktualisieren. Die in academyFIVE eingepflegte Hochschul-E-Mail-Adresse kann dabei nicht verändert werden.
 
@@ -60,7 +60,7 @@ Für den Nutzerdatenimport nach Koha werden die Daten der Mitarbeiter_innen, akt
 
 Die E-Mail-Adressen der Nutzer_innen werden oft falsch übernommen, d.h. es werden in einigen Fällen nur die privaten E-Mail-Adressen der Teilnehmer_innen und Dozierenden übernommen oder fälschlicherweise E-Mail-Adressen von anderen Studierenden. Wie dies genau zustande kommt, ist aktuell nicht nachvollziehbar. Es wäre von großem Vorteil, wenn man durch eine (vorgeschaltete) Datenanalyse bzw. ein entsprechendes Skript herausfiltern könnte, bei welchen Nutzer_innen die Hochschuladressen fehlen. Da alle Hochschul-E-Mail-Adressen nach dem gleichen Muster aufgebaut sind (mmustermann@stud.macromedia.de), könnte man zudem die Nachnamen der Nutzer_innen mit den Hochschul-E-Mail-Adressen abgleichen, um falsch zugeordnete Adressen herauszufiltern. 
 
-Eine weitere Schwachstelle ist, dass die Registrierungsnummer aus academyFIVE bzw. die Bibliotheksausweisnummer händisch in Koha eingetragen werden muss. Da dieses Vorgehen sehr umständlich ist, wäre es von Vorteil, wenn dieser Prozess automatisiert wird. 
+Eine weitere Schwachstelle ist, dass die Registrierungsnummer aus academyFIVE bzw. die Bibliotheksausweisnummer händisch in Koha eingetragen werden muss. Da dieses Vorgehen sehr umständlich ist, wäre es von Vorteil, wenn dieser Prozess automatisiert würde. 
 
 ### Quellen <a name="Quellen" /></a>
 
