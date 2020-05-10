@@ -34,10 +34,12 @@ Für die Übermittlung von Katalog-Daten wird den Mitgliedern des SWB-Verbundsys
    
 #### 2.2 Das Bibliothekssystem Koha <a name="Koha" /></a>
 
-Koha erfüllt (fast) alle Anforderungen, die an ein Next-Generation-Bibliotheksmanagementsystem gestellt werden, u.a. können Benutzerausweise gedruckt und der gesamte Bestell- sowie Fernleihe-Prozess abgewickelt werden. An der Macromedia Library wird Koha vor allem für die Ausleihe und die Rückgabe von Medien verwendet, für das Mahnwesen, für Inventuren und für die Bereitstellung des lokalen OPAC, inklusive Nutzerkonto. Koha ist mit dem Campus-Management-System *academyFive* verknüpft, wodurch Studierende und Lehrende sowie Mitarbeiter_innen der Verwaltung im Bibliothekssystem automatisch als Nutzer_innen anlegt werden. Eine manuelle Nutzer_innen-Anlegung ist theoretisch möglich, allerdings muss die Person zunächst in academyFIVE eingepflegt worden sein, da sich die Bibliotheksausweisnummer aus der academyFIVE-Registrierungsnummer ergibt. Diese Nummer korrespondiert mit dem Studierendenausweis oder dem Dozierendenausweis. 
+Koha ist ein Open-Source-Bibliothekssystem, das „gemäß den Bedingungen der GNU General Public Licence“ („Über Koha“, o.J.) weiterverbreitet und verändert werden darf. Es gibt dementsprechend eine Reihe von öffentlichen [Git Repositorien](http://git.koha-community.org/gitweb/), an denen kollaborativ gearbeitet wird („Public Git Repositories - Koha Wiki“, 2019). Das System erfüllt (fast) alle Anforderungen, die an ein Next-Generation-Bibliotheksmanagementsystem gestellt werden, u.a. können Benutzerausweise gedruckt und der gesamte Bestell- sowie Fernleihe-Prozess abgewickelt werden. Mithilfe von Reports können zudem Datenanalysen durchgeführt und z.B. Katalog- oder Benutzerstatistiken erstellt werden (Abb 1).  
 
-        # ----- hier fehlt noch ein Abschnitt zu Reports 
-        # ----- Bild einfügen
+       # ----- Bild einfügen -> „koha_reports.jpg“ 
+        Abb 1: Reports in Koha ("Reports", o.J.)
+
+An der Macromedia Library wird Koha vor allem für die Ausleihe und die Rückgabe von Medien verwendet, für das Mahnwesen, für Inventuren und für die Bereitstellung des lokalen OPAC, inklusive Nutzerkonto. Koha ist mit dem kommerziellen Campus-Management-System *academyFIVE* (Firma Simovative) verknüpft, wodurch Studierende und Lehrende sowie Mitarbeiter_innen der Verwaltung im Bibliothekssystem automatisch per Datenmigration als Biblitheksnutzer_innen anlegt werden. Eine manuelle Nutzer_innen-Anlegung ist theoretisch möglich, allerdings muss die Person zunächst in academyFIVE eingepflegt worden sein. Im Anschluss an die Datenmigration bzw. an das manuelle Anlegen einer Person wird die jeweilige academyFIVE-ID als Personen-ID übernommen und händisch in Koha übertragen.
 
 ### 3. academyFIVE – Die Campus Management Software <a name="academyFIVE" /></a>
 
@@ -47,28 +49,24 @@ Das System wird dabei immer wieder an veränderte Kundenwünsche angepasst, zude
 #### 3.1 Funktionen  <a name="Funktionen"></a>
    
 Das Hauptmenü des Camus-Management-Systems ist bei der Hochschhule Macromedia folgendermaßen aufgeteilt:
--	Personen
--	Kommunikation
--	Angebotsgruppen & Durchführungsgruppen
--	Prüfungsmanagement
--	Kursmanagement
--	Abgabemanagement
--	Statistik und Berichte
--	Dokumente
--	Internetauftritt
--	News
--	Aufgaben
--	Einstellungen (academyFive, 2020). 
-
-        # -------- Bild einfügen
-
+- Personen
+- Kommunikation
+- Angebotsgruppen & Durchführungsgruppen
+- Prüfungsmanagement
+- Kursmanagement
+- Abgabemanagement
+- Statistik und Berichte
+- Dokumente
+- Internetauftritt
+- News
+- Aufgaben
+- Einstellungen (academyFive, 2020). 
+        
 Allerdings werden nicht alle Bereiche des Systems genutzt, wie z.B. der Bereich „Aufgaben“ oder der Bereich „Kursmanagement“, da die Stunden- und Raumplanung über die Stundenplansoftware *WebUntis* organisiert wird.
 
-Im Bereich „Personen“ werden Interessenten, Bewerber, Studenten, Alumni und „Benutzerguppen“ verwaltet, letzterer Menüpunkt teilt sich auf in „Aktive Autoren“, „Dozenten“, „Externe Kontakte“, „Firmen Kontakte“ und „Inaktive“  (academyFive, 2020). Jede Person hat, wie bereits erwähnt, eine eigene Registrierungsnummer bzw. academyFIVE-Nummer. Im Bereich „Kommunikation“ findet die E-Mail-Kommunikation mit den Studierenden statt.
+Im Bereich „Kommunikation“ findet die E-Mail-Kommunikation mit den Studierenden statt. Im Bereich „Personen“ werden Interessenten, Bewerber, Studenten, Alumni und „Benutzerguppen“ verwaltet, letzterer Menüpunkt teilt sich auf in „Aktive Autoren“, „Dozenten“, „Externe Kontakte“, „Firmen Kontakte“ und „Inaktive“  (academyFive, 2020). Jede Person hat, wie bereits erwähnt, eine individuelle academyFIVE-ID. 
 
 Hinter „Internetauftritt“ verbirgt sich die *Community* bzw. das Dozierenden- und Studierendenportal *mymacromedia.de* (Hochschule Macromedia, o. J.), welches in academyFIVE eingebettet ist. Von da aus können Studierende auf alle studienrelevanten Informationen zugreifen, sich für Prüfungen anmelden und digitale Prüfungsabgaben vornehmen. Dementsprechend ist speziell der Bereich Prüfungs- und Abgabemanagement mit der Community verbunden. Auch die News, die in der Community veröffentlicht werden, werden über academyFIVE abgesetzt.
-
-        # ------- Bild einfügen
 
 Im Bereich „Statistik und Berichte“ gibt es die Möglichkeit, Reports durchzuführen und den gesamten Datenbestand zu analysieren:
 
@@ -92,19 +90,28 @@ Für den Nutzerdatenimport nach Koha werden die Daten der Mitarbeiter_innen, akt
 
 ### 4. Nutzerdatenimport von academyFIVE nach Koha - Probleme und Verbesserungsvorschläge <a name="Nutzerdatenimport" /></a>
 
-        # ------- hier fehlt noch eine genauere Beschreibung des Nutzerdatenimports
+Die E-Mail-Adressen der Nutzer_innen werden oft falsch übertragen, d.h. es werden in einigen Fällen nur die privaten E-Mail-Adressen der Teilnehmer_innen und Dozierenden übernommen oder fälschlicherweise E-Mail-Adressen von anderen Studierenden. Wie dies genau zustande kommt, ist aktuell nicht nachvollziehbar. Es wäre von großem Vorteil, wenn man durch eine (vorgeschaltete) Datenanalyse bzw. ein entsprechendes Skript herausfiltern könnte, bei welchen Nutzer_innen die Hochschuladressen fehlen. Da alle Hochschul-E-Mail-Adressen nach dem gleichen Muster aufgebaut sind - mmustermann(at)stud.macromedia.de -, könnte man zudem die Nachnamen der Nutzer_innen mit den Hochschul-E-Mail-Adressen abgleichen, um falsch zugeordnete Adressen herauszufiltern. Eine Analyse der fehlerhaften Datensätze ist ggfs. über das Erstellen von Reports möglich. Aktuell fehlt bei dem Report zur Erstellung von Benutzerstatistiken  eine Filtermöglichkeit nach E-Mail-Adressen (Abb 2). Diese Filtermöglichkeit könnte man z.B. ergänzen. Allerdings werden die Fehler dadurch nicht automatisch behoben.
 
-Die E-Mail-Adressen der Nutzer_innen werden oft falsch übernommen, d.h. es werden in einigen Fällen nur die privaten E-Mail-Adressen der Teilnehmer_innen und Dozierenden übernommen oder fälschlicherweise E-Mail-Adressen von anderen Studierenden. Wie dies genau zustande kommt, ist aktuell nicht nachvollziehbar. Es wäre von großem Vorteil, wenn man durch eine (vorgeschaltete) Datenanalyse bzw. ein entsprechendes Skript herausfiltern könnte, bei welchen Nutzer_innen die Hochschuladressen fehlen. Da alle Hochschul-E-Mail-Adressen nach dem gleichen Muster aufgebaut sind - mmustermann(at)stud.macromedia.de -, könnte man zudem die Nachnamen der Nutzer_innen mit den Hochschul-E-Mail-Adressen abgleichen, um falsch zugeordnete Adressen herauszufiltern. Eine Analyse der fehlerhaften Datensätze ist ggfs. über das Erstellen von Reports möglich, allerdings werden die Fehler dadurch nicht automatisch behoben.
+        # ------Bild einfügen -> „koha_benutzerstatistiken.jpg“
+        Abb 2: Report zu Benutzerstatistiken („Benutzerstatistiken“, o.J.) 
 
-Eine weitere Schwachstelle ist, dass die Registrierungsnummer aus academyFIVE bzw. die Bibliotheksausweisnummer händisch in Koha eingetragen werden muss. Da dieses Vorgehen sehr umständlich ist, wäre es von Vorteil, wenn dieser Prozess automatisiert würde. 
+Eine weitere Schwachstelle ist, dass die jeweilige academyFIVE-ID bisher händisch als Personen-ID in Koha übertragen wird (siehe Kapitel 2). Da dieses Vorgehen sehr umständlich ist, wäre es von Vorteil, wenn dieser Prozess automatisiert würde. 
 
 ### Quellen <a name="Quellen" /></a>
 
 academyFive. (2020). Abgerufen 9. Mai 2020, von [https://ac5-prod.macromedia.de/home](https://ac5-prod.macromedia.de/home)
 
+Benutzerstatistiken. (o. J.). Abgerufen 10. Mai 2020, von https://macromedia.bsz-bw.de:8080/cgi-bin/koha/reports/borrowers_stats.pl
+
 BSZ. (o.D.). Koha. Abgerufen 05. Mai, 2020, von [https://www.bsz-bw.de/bibliothekssysteme/koha.html](https://www.bszbw.de/bibliothekssysteme/koha.html) 
 
 Hochschule Macromedia. (o. J.). My Macromedia. Abgerufen 9. Mai 2020, von [https://my.macromedia.de](https://my.macromedia.de) 
+
+Public Git Repositories - Koha Wiki. (2019, Oktober 1). Abgerufen 10. Mai 2020, von [https://wiki.koha-community.org/wiki/Public_Git_Repositories](https://wiki.koha-community.org/wiki/Public_Git_Repositories)
+
+Reports. (o. J.). Abgerufen 10. Mai 2020, von https://macromedia.bsz-bw.de:8080/cgi-bin/koha/reports/reports-home.pl
+
+Über Koha. (o. J.). Abgerufen 10. Mai 2020, von https://macromedia.bsz-bw.de:8080/cgi-bin/koha/about.pl
 
 Simovative GmbH. (2020, April 28). Simovative GmbH | academyFIVE - Campus Management Software. Abgerufen 5. Mai 2020, von [https://www.simovative.com/de/](https://www.simovative.com/de/) 
 
