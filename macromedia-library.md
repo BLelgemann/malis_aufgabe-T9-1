@@ -1,8 +1,7 @@
 
 ## Der Nutzerdatenimport von der Campus Management Software *academyFIVE* in das Bibliotheksystem *KOHA* der Macromedia Library
 
-### Inhalt
-
+#### Inhalt
 1. [Organisationsstruktur der Macromedia Library](#macromedialibrary)  
 2. [Das Macromedia Library Bibliothekssystem](#Bibliothekssystem)  
     2.1 [Hosting durch das BSZ](#Hosting)    
