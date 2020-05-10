@@ -1,6 +1,7 @@
-## Modul: Data Science / A1
+### MALIS SS 2020 / Modul Data Science (Prof. Dr. Konrad Förstner)
+#### Aufgabe: WPM_T9.1 
 
-**Autorin:** Britta Lelgemann / **Tandempartnerin:** Meike Rietz
+**Autorin:** Britta Lelgemann,**Tandempartnerin:** Meike Rietz
 
 **Inhalt:** Innerhalb dieser Hausarbeit wird am Beispiel des Nutzerdatenimports vom Campusmanagementsystem *academyFIVE* in das
 Bibliothekssystem *KOHA* ein datenintensiver bzw. datenfokussierter Prozess beschrieben, der im Rahmen der Bibliotheksarbeit der
