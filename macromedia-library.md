@@ -1,5 +1,6 @@
 
 ## Der Nutzerdatenimport von der Campus Management Software *academyFIVE* in das Bibliotheksystem *KOHA* der Macromedia Library
+#### MALIS SS2020, Aufgabe WPM_T9.1 (Prof. Dr. Konrad Förstner)
 
 #### Inhalt
 1. [Organisationsstruktur der Macromedia Library](#macromedialibrary)  
@@ -34,9 +35,6 @@ Für die Übermittlung von Katalog-Daten wird den Mitgliedern des SWB-Verbundsys
 #### 2.2 Das Bibliothekssystem Koha <a name="Koha" /></a>
 
 Koha ist ein Open-Source-Bibliothekssystem, das `gemäß den Bedingungen der GNU General Public Licence`<sup>3</sup> weiterverbreitet und verändert werden darf. Es gibt dementsprechend eine Reihe von öffentlichen [Git Repositorien](http://git.koha-community.org/gitweb/), an denen kollaborativ gearbeitet wird.<sup>4</sup> Das System erfüllt (fast) alle Anforderungen, die an ein Next-Generation-Bibliotheksmanagementsystem gestellt werden, u.a. können Benutzerausweise gedruckt und der gesamte Bestell- sowie Fernleihe-Prozess abgewickelt werden. Mithilfe von Reports können zudem Datenanalysen durchgeführt und z.B. Katalog- oder Benutzerstatistiken erstellt werden.  
-
-       # ----- Bild einfügen -> koha_reports.jpg 
-        Abb 1: Reports in Koha (`Reports`, o.J.)
 
 An der Macromedia Library wird Koha vor allem für die Ausleihe und die Rückgabe von Medien verwendet, für das Mahnwesen, für Inventuren und für die Bereitstellung des lokalen OPAC, inklusive Nutzerkonto. Koha ist mit dem kommerziellen Campus-Management-System *academyFIVE* (Firma Simovative) verknüpft, wodurch Studierende und Lehrende sowie Mitarbeiter_innen der Verwaltung im Bibliothekssystem automatisch per Datenmigration als Biblitheksnutzer_innen anlegt werden. Eine manuelle Nutzer_innen-Anlegung ist theoretisch möglich, allerdings muss die Person zunächst in academyFIVE eingepflegt worden sein. Im Anschluss an die Datenmigration bzw. an das manuelle Anlegen einer Person wird die jeweilige academyFIVE-ID als Personen-ID übernommen und händisch in Koha übertragen.
 
@@ -86,9 +84,6 @@ Für den Nutzerdatenimport nach Koha werden die Daten der Mitarbeiter_innen, akt
 
 Die E-Mail-Adressen der Nutzer_innen werden oft falsch übertragen, d.h. es werden in einigen Fällen nur die privaten E-Mail-Adressen der Teilnehmer_innen und Dozierenden übernommen oder fälschlicherweise E-Mail-Adressen von anderen Studierenden. Wie dies genau zustande kommt, ist aktuell nicht nachvollziehbar. Es wäre von großem Vorteil, wenn man durch eine (vorgeschaltete) Datenanalyse bzw. ein entsprechendes Skript herausfiltern könnte, bei welchen Nutzer_innen die Hochschuladressen fehlen. Da alle Hochschul-E-Mail-Adressen nach dem gleichen Muster aufgebaut sind - mmustermann(at)stud.macromedia.de -, könnte man zudem die Nachnamen der Nutzer_innen mit den Hochschul-E-Mail-Adressen abgleichen, um falsch zugeordnete Adressen herauszufiltern. Eine Analyse der fehlerhaften Datensätze ist ggfs. über das Erstellen von Reports möglich. Aktuell fehlt bei dem Report zur Erstellung von Benutzerstatistiken  eine Filtermöglichkeit nach E-Mail-Adressen. Diese Filtermöglichkeit könnte man z.B. ergänzen. Allerdings werden die Fehler dadurch nicht automatisch behoben.
 
-        # ------Bild einfügen -> koha_benutzerstatistiken.jpg
-        Abb 2: Report zu Benutzerstatistiken (`Benutzerstatistiken`, o.J.) 
-
 Eine weitere Schwachstelle ist, dass die jeweilige academyFIVE-ID bisher händisch als Personen-ID in Koha übertragen wird (siehe Kapitel 2). Da dieses Vorgehen sehr umständlich ist, wäre es von Vorteil, wenn dieser Prozess automatisiert würde. 
 
 ### Quellen <a name="Quellen" /></a>
@@ -106,15 +101,3 @@ Eine weitere Schwachstelle ist, dass die jeweilige academyFIVE-ID bisher händis
 <sup>6</sup> _academyFIVE_, [https://ac5-prod.macromedia.de/home](https://ac5-prod.macromedia.de/home), abgerufen am 9. Mai 2020
 
 <sup>7</sup> Hochschule Macromedia, _my.macromedia.de_, [https://my.macromedia.de](https://my.macromedia.de), abgerufen am 9. Mai 2020 
-
-
-    #Benutzerstatistiken. (o. J.). Abgerufen 10. Mai 2020, von https://macromedia.bsz-bw.de:8080/cgi-bin/koha/reports/borrowers_stats.pl
-
-    #Reports. (o. J.). Abgerufen 10. Mai 2020, von https://macromedia.bsz-bw.de:8080/cgi-bin/koha/reports/reports-home.pl
-
-
-
-
-
-
-  
