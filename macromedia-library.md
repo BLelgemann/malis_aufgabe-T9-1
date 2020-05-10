@@ -36,7 +36,8 @@ Für die Übermittlung von Katalog-Daten wird den Mitgliedern des SWB-Verbundsys
 
 Koha ist ein Open-Source-Bibliothekssystem, das `gemäß den Bedingungen der GNU General Public Licence`<sup>3</sup> weiterverbreitet und verändert werden darf. Es gibt dementsprechend eine Reihe von öffentlichen [Git Repositorien](http://git.koha-community.org/gitweb/), an denen kollaborativ gearbeitet wird.<sup>4</sup> Das System erfüllt (fast) alle Anforderungen, die an ein Next-Generation-Bibliotheksmanagementsystem gestellt werden, u.a. können Benutzerausweise gedruckt und der gesamte Bestell- sowie Fernleihe-Prozess abgewickelt werden. Mithilfe von Reports können zudem Datenanalysen durchgeführt und z.B. Katalog- oder Benutzerstatistiken erstellt werden.  
 
-![Koha Reports]()
+[Abb 1]: https://github.com/BLelgemann/malis_aufgabe-T9-1/koha_reports.jpg  "Koha Reports"
+![Alt-Text][Abb 1]
 
 An der Macromedia Library wird Koha vor allem für die Ausleihe und die Rückgabe von Medien verwendet, für das Mahnwesen, für Inventuren und für die Bereitstellung des lokalen OPAC, inklusive Nutzerkonto. Koha ist mit dem kommerziellen Campus-Management-System *academyFIVE* (Firma Simovative) verknüpft, wodurch Studierende und Lehrende sowie Mitarbeiter_innen der Verwaltung im Bibliothekssystem automatisch per Datenmigration als Biblitheksnutzer_innen anlegt werden. Eine manuelle Nutzer_innen-Anlegung ist theoretisch möglich, allerdings muss die Person zunächst in academyFIVE eingepflegt worden sein. Im Anschluss an die Datenmigration bzw. an das manuelle Anlegen einer Person wird die jeweilige academyFIVE-ID als Personen-ID übernommen und händisch in Koha übertragen.
 
