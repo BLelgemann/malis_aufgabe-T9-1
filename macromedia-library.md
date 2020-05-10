@@ -24,7 +24,7 @@ Die Macromedia Library ist Mitglied des Südwestdeutschen Bibliotheksverbundes (
 > Das BSZ unterstützt die Bibliothek bei der Datenmigration aus vorhandenen 
 > Systemen und übernimmt die Daten aus dem SWB-Verbund direkt nach
 > KohaAusgerichtet an den jeweiligen Geschäftsgängen erarbeitet das BSZ 
-> gemeinsam mit der Einrichtung die Konfiguration des Systems . . . Über den
+> gemeinsam mit der Einrichtung die Konfiguration des Systems [...]. Über den
 > automatisierten täglichen Datenimport und Z39.50-Download werden Daten nach
 > Koha übernommen.<sup>2</sup>  
 
@@ -64,7 +64,7 @@ Allerdings werden nicht alle Bereiche des Systems genutzt, wie z.B. der Bereich 
 
 Im Bereich *Kommunikation* findet die E-Mail-Kommunikation mit den Studierenden statt. Im Bereich *Personen* werden Interessenten, Bewerber, Studenten, Alumni und *Benutzerguppen* verwaltet, letzterer Menüpunkt teilt sich auf in *Aktive Autoren*, *Dozenten*, *Externe Kontakte*, *Firmen Kontakte* und *Inaktive*<sup>6</sup>. Jede Person hat, wie bereits erwähnt, eine individuelle academyFIVE-ID. Hinter *Internetauftritt* verbirgt sich die *Community* bzw. das Dozierenden- und Studierendenportal *mymacromedia.de*<sup>7</sup>, welches in academyFIVE eingebettet ist. Von da aus können Studierende auf alle studienrelevanten Informationen zugreifen, sich für Prüfungen anmelden und digitale Prüfungsabgaben vornehmen. Dementsprechend ist speziell der Bereich Prüfungs- und Abgabemanagement mit der Community verbunden. Auch die News, die in der Community veröffentlicht werden, werden über academyFIVE abgesetzt. Im Bereich *Statistik und Berichte* gibt es die Möglichkeit, Reports durchzuführen und den gesamten Datenbestand zu analysieren:
 
-> . . . mit dem academyFIVE Reporting können Sie alle im System erfassten Daten 
+> [...] mit dem academyFIVE Reporting können Sie alle im System erfassten Daten 
 > auswerten und ausgeben (CVS, XML oder MS-Excel) oder in tabellarischer Form 
 > direkt im System darstellen. Mit den ausgewerteten Daten können anschließend 
 > direkt Folgeprozesse (z.B. direkter Versand von E-Mails) angestoßen werden.
