@@ -2,10 +2,10 @@
 
 ### Inhalt
 1. [Organisationsstruktur der Macromedia Library](#macromedialibrary)  
-2. [Das Macromedia Library Bibliothekssystem](#Bibliothekssystem)  
+2. [Das Bibliothekssystem der Macromedia Library](#Bibliothekssystem)  
     2.1 [Hosting durch das BSZ](#Hosting)    
-    2.2 [Das Bibliothekssystem Koha](#Koha)      
-3. [academyFIVE – Die Campus Management Software](#academyFIVE)     
+    2.2 [Koha](#Koha)      
+3. [Die Campus Management Software academyFIVE](#academyFIVE)     
     3.1 [Funktionen](#Funktionen)         
     3.2 [Datenpflege](#Datenpflege)     
 4. [Nutzerdatenimport von academyFIVE nach Koha - Probleme und Verbesserungsvorschläge](#Nutzerdatenimport)   
@@ -15,7 +15,7 @@
 
 Die Hochschule Macromedia hat mehrere Standorte in Deutschland, mit jeweils einer physischen Bibliothek. Alle Standortbibliotheken teilen einen OPAC<sup>1</sup>, der über das Open-Source-Bibliothekssystem Koha bereitgestellt wird. Da sowohl das Bibliothekspersonal als auch die IT-Abteilung je Standort in der Regel nur mit einer Person besetzt wird und die zentrale IT-Abteilung hauptsächlich mit der Wartung des Firmenservers beschäftigt ist, werden IT-bezogene Bibliotheksdienste generell durch externe Anbieter betreut. So wird das Koha bzw. die dahinterliegende Datenbank durch das Bibliotheksservice-Zentrum Baden-Württemberg (BSZ) gehostet. 
   
-### 2. Das Macromedia Library Bibliothekssystem <a name="Bibliothekssystem" /></a>
+### 2. Das Bibliothekssystem der Macromedia Library <a name="Bibliothekssystem" /></a>
 
 #### 2.1 Hosting durch das BSZ <a name="Hosting" /></a>
 
@@ -30,7 +30,7 @@ Die Macromedia Library ist Mitglied des Südwestdeutschen Bibliotheksverbundes (
 
 Für die Übermittlung von Katalog-Daten wird den Mitgliedern des SWB-Verbundsystems der Katalogisierungsclient WinIBW von OCLC zur Verfügung gestellt.<sup>2</sup>   
    
-#### 2.2 Das Bibliothekssystem Koha <a name="Koha" /></a>
+#### 2.2 Koha <a name="Koha" /></a>
 
 Koha ist ein Open-Source-Bibliothekssystem, das `gemäß den Bedingungen der GNU General Public Licence`<sup>3</sup> weiterverbreitet und verändert werden darf. Es gibt dementsprechend eine Reihe von öffentlichen [Git Repositorien](http://git.koha-community.org/gitweb/), an denen kollaborativ gearbeitet wird.<sup>4</sup> Das System erfüllt (fast) alle Anforderungen, die an ein Next-Generation-Bibliotheksmanagementsystem gestellt werden, u.a. können Benutzerausweise gedruckt und der gesamte Bestell- sowie Fernleihe-Prozess abgewickelt werden. Mithilfe von Reports können zudem Datenanalysen durchgeführt und z.B. Katalog- oder Benutzerstatistiken erstellt werden (Abb. 1).  
 
@@ -39,12 +39,12 @@ Koha ist ein Open-Source-Bibliothekssystem, das `gemäß den Bedingungen der GNU
 
 Die Macromedia Library nutzt Koha vor allem für die Ausleihe und die Rückgabe von Medien, für das Mahnwesen, für Inventuren und für die Bereitstellung des lokalen OPAC, inklusive Nutzerkonto. Koha ist mit dem kommerziellen Campus-Management-System *academyFIVE* (Firma Simovative) verknüpft, wodurch Studierende und Lehrende sowie Mitarbeiter_innen der Verwaltung im Bibliothekssystem automatisch per Datenmigration als Biblitheksnutzer_innen anlegt werden. Eine manuelle Nutzer_innen-Anlegung ist theoretisch möglich, allerdings muss die Person zunächst in academyFIVE eingepflegt worden sein. Im Anschluss an die Datenmigration bzw. an das manuelle Anlegen einer Person wird die jeweilige academyFIVE-ID als Personen-ID übernommen und händisch in Koha übertragen.
 
-### 3. academyFIVE – Die Campus Management Software <a name="academyFIVE" /></a>
+### 3. Die Campus Management Software academyFIVE <a name="academyFIVE" /></a>
 
 Laut der Simovative GmbH ist acadamyFIVE `eine Lösung auf Maß`, die `unter Berücksichtigung aller individuellen Bedürfnisse die komplexen Prozesse von Hochschulverwaltungen in einem einzigen System`<sup>5</sup>  vereint.
 Das System wird dabei immer wieder an veränderte Kundenwünsche angepasst, zudem gibt es die Möglichkeit durch selbstständig durchgeführte Konfigurationen eigene Anpassungen vorzunehmen.<sup>5</sup>
 
-#### 3.1 Funktionen  <a name="Funktionen"></a>
+#### 3.1 Funktionen <a name="Funktionen"></a>
    
 Das Hauptmenü des Camus-Management-Systems ist bei der Hochschhule Macromedia folgendermaßen aufgeteilt:
 - Personen
