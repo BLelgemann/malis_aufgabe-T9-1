@@ -21,17 +21,32 @@ Die Hochschule Macromedia hat insgesamt sieben Standorte in ganz Deutschland, mi
 
 #### 2.1 Hosting durch das BSZ <a name="Hosting" /></a>
 
-Die Macromedia Library ist Mitglied des Südwestdeutschen Bibliotheksverbundes (SWB). Das daran angeschlossene Bibliotheksservice-Zentrum Baden-Württemberg (BSZ) ist, wie beschrieben, für das Hosting der mit Koha verbundenen Datenbank zuständig: "Das BSZ unterstützt die Bibliothek bei der Datenmigration aus vorhandenen Systemen und übernimmt die Daten aus dem SWB-Verbund direkt nach Koha" (BSZ, o.D.). Für die Übermittlung von Katalog-Daten wird den Mitgliedern des SWB-Verbundsystems der Katalogisierungsclient WinIBW von OCLC zur Verfügung gestellt (BSZ, o.D.).   
+Die Macromedia Library ist Mitglied des Südwestdeutschen Bibliotheksverbundes (SWB). Das daran angeschlossene Bibliotheksservice-Zentrum Baden-Württemberg (BSZ) ist, wie beschrieben, für das Hosting der mit Koha verbundenen Datenbank zuständig: 
+
+> Das BSZ unterstützt die Bibliothek bei der Datenmigration aus vorhandenen 
+> Systemen und übernimmt die Daten aus dem SWB-Verbund direkt nach
+> KohaAusgerichtet an den jeweiligen Geschäftsgängen erarbeitet das BSZ 
+> gemeinsam mit der Einrichtung die Konfiguration des Systems . . . Über den
+> automatisierten täglichen Datenimport und Z39.50-Download werden Daten nach
+> Koha übernommen. (BSZ, o.D.) 
+
+Für die Übermittlung von Katalog-Daten wird den Mitgliedern des SWB-Verbundsystems der Katalogisierungsclient WinIBW von OCLC zur Verfügung gestellt (BSZ, o.D.).   
    
 #### 2.2 Das Bibliothekssystem Koha <a name="Koha" /></a>
 
-Koha erfüllt (fast) alle Anforderungen, die an ein Next-Generation-Bibliotheksmanagementsystem gestellt werden, u.a. können Benutzerausweise gedruckt und der gesamte Bestell- sowie Fernleihe-Prozess abgewickelt werden. An der Macromedia Library wird Koha vor allem für die Ausleihe und die Rückgabe von Medien verwendet, für das Mahnwesen, für Inventuren und für die Bereitstellung des lokalen OPAC, inklusive Nutzerkonto. Koha ist mit dem Campus-Management-System *academyFive* verknüpft, wodurch Studierende und Lehrende sowie Mitarbeiter_innen der Verwaltung im Bibliothekssystem automatisch als Nutzer_innen anlegt werden. Eine manuelle Benutzer_innen-Anlegung ist theoretisch möglich, allerdings muss die Person zunächst in AC5 eingepflegt worden sein, da sich die Bibliotheksausweisnummer aus der academyFIVE-Registrierungsnummer ergibt. Diese Nummer korrespondiert mit dem Studierendenausweis oder dem Dozierendenausweis. 
+Koha erfüllt (fast) alle Anforderungen, die an ein Next-Generation-Bibliotheksmanagementsystem gestellt werden, u.a. können Benutzerausweise gedruckt und der gesamte Bestell- sowie Fernleihe-Prozess abgewickelt werden. An der Macromedia Library wird Koha vor allem für die Ausleihe und die Rückgabe von Medien verwendet, für das Mahnwesen, für Inventuren und für die Bereitstellung des lokalen OPAC, inklusive Nutzerkonto. Koha ist mit dem Campus-Management-System *academyFive* verknüpft, wodurch Studierende und Lehrende sowie Mitarbeiter_innen der Verwaltung im Bibliothekssystem automatisch als Nutzer_innen anlegt werden. Eine manuelle Nutzer_innen-Anlegung ist theoretisch möglich, allerdings muss die Person zunächst in academyFIVE eingepflegt worden sein, da sich die Bibliotheksausweisnummer aus der academyFIVE-Registrierungsnummer ergibt. Diese Nummer korrespondiert mit dem Studierendenausweis oder dem Dozierendenausweis. 
+
+        # ----- hier fehlt noch ein Abschnitt zu Reports 
+        # ----- Bild einfügen
 
 ### 3. academyFIVE – Die Campus Management Software <a name="academyFIVE" /></a>
 
+Laut der Simovative GmbH ist acadamyFIVE „eine Lösung auf Maß“, die „unter Berücksichtigung aller individuellen Bedürfnisse die komplexen Prozesse von Hochschulverwaltungen in einem einzigen System“ (Simovative GmbH, 2020) vereint.
+Das System wird dabei immer wieder an veränderte Kundenwünsche angepasst, zudem gibt es die Möglichkeit durch selbstständig durchgeführte Konfigurationen eigene Anpassungen vorzunehmen (Simovative GmbH, 2020).
+
 #### 3.1 Funktionen  <a name="Funktionen"></a>
    
-   Das Hauptmenü des Camus-Management-Systems ist folgendermaßen aufgeteilt:
+Das Hauptmenü des Camus-Management-Systems ist bei der Hochschhule Macromedia folgendermaßen aufgeteilt:
 -	Personen
 -	Kommunikation
 -	Angebotsgruppen & Durchführungsgruppen
@@ -43,29 +58,49 @@ Koha erfüllt (fast) alle Anforderungen, die an ein Next-Generation-Bibliotheksm
 -	Internetauftritt
 -	News
 -	Aufgaben
--	Einstellungen (academyFive, o. J.). 
+-	Einstellungen (academyFive, 2020). 
 
-Im Bereich „Personen“ werden Interessenten, Bewerber, Studenten, Alumni und „Benutzerguppen“ verwaltet, letzterer Menüpunkt teilt sich auf in „Aktive Autoren“, „Dozenten“, „Externe Kontakte“, „Firmen Kontakte“ und „Inaktive“. Jede Person hat, wie bereits erwähnt, eine eigene Registrierungsnummer bzw. academyFIVE-Nummer. Im Bereich „Kommunikation“ findet die E-Mail-Kommunikation mit den Studierenden statt.
+        # -------- Bild einfügen
+
+Allerdings werden nicht alle Bereiche des Systems genutzt, wie z.B. der Bereich „Aufgaben“ oder der Bereich „Kursmanagement“, da die Stunden- und Raumplanung über die Stundenplansoftware *WebUntis* organisiert wird.
+
+Im Bereich „Personen“ werden Interessenten, Bewerber, Studenten, Alumni und „Benutzerguppen“ verwaltet, letzterer Menüpunkt teilt sich auf in „Aktive Autoren“, „Dozenten“, „Externe Kontakte“, „Firmen Kontakte“ und „Inaktive“  (academyFive, 2020). Jede Person hat, wie bereits erwähnt, eine eigene Registrierungsnummer bzw. academyFIVE-Nummer. Im Bereich „Kommunikation“ findet die E-Mail-Kommunikation mit den Studierenden statt.
 
 Hinter „Internetauftritt“ verbirgt sich die *Community* bzw. das Dozierenden- und Studierendenportal *mymacromedia.de* (Hochschule Macromedia, o. J.), welches in academyFIVE eingebettet ist. Von da aus können Studierende auf alle studienrelevanten Informationen zugreifen, sich für Prüfungen anmelden und digitale Prüfungsabgaben vornehmen. Dementsprechend ist speziell der Bereich Prüfungs- und Abgabemanagement mit der Community verbunden. Auch die News, die in der Community veröffentlicht werden, werden über academyFIVE abgesetzt.
 
-Allerdings werden nicht alle Bereiche des Systems genutzt, wie z.B. der Bereich „Kursmanagement“, da die Stunden- und Raumplanung über die Stundenplansoftware *WebUntis* organisiert wird.
+        # ------- Bild einfügen
+
+Im Bereich „Statistik und Berichte“ gibt es die Möglichkeit, Reports durchzuführen und den gesamten Datenbestand zu analysieren:
+
+> . . . mit dem academyFIVE Reporting können Sie alle im System erfassten Daten 
+> auswerten und ausgeben (CVS, XML oder MS-Excel) oder in tabellarischer Form 
+> direkt im System darstellen. Mit den ausgewerteten Daten können anschließend 
+> direkt Folgeprozesse (z.B. direkter Versand von E-Mails) angestoßen werden.
+> Die Auswertungen finden in Echtzeit statt, wodurch die Informationen immer auf 
+> dem aktuellsten Stand sind. Die Daten eines Berichts werden verschlüsselt
+> bereitgestellt, so dass  sie einfach in andere Systeme der Hochschul-IT
+> Landschaft (bspw. die hochschuleigene Webiste) integriert werden können.
+> (Simovative GmbH, 2020)
+
+Das System ermöglicht es somit auch, Entscheidungsprozesse zu optimieren: „Hierzu bietet Ihnen academyFIVE Analytics ein Dashboard System, mit dem beliebig viele Dashboards angelegt werden können. So werden dem einzelnen Anwender, direkt nach dem Login, alle für ihn relevanten Informationen ansprechend darstellt“ (Simovative GmbH, 2020).
    
 #### 3.2 Datenpflege <a name="Datenpflege" /></a>
 
-Die Datenpflege und Aktualisierung in AC5 wird durch die Verwaltungsmitarbeiter der Hochschule vorgenommen. Diese haben, je nach Zuständigkeit bzw. Abteilung, unterschiedliche Zugriffsrechte. Ferner können Studierende und Dozierende ihre Kontaktdaten über die Community selbstständig aktualisieren. Die in academyFIVE eingepflegte Hochschul-E-Mail-Adresse kann dabei nicht verändert werden.
+Die Datenpflege und Aktualisierung wird durch die Verwaltungsmitarbeiter der Hochschule vorgenommen. Diese haben, je nach Zuständigkeit bzw. Abteilung, unterschiedliche Zugriffsrechte. Ferner können Studierende und Dozierende ihre Kontaktdaten über die Community selbstständig aktualisieren. Die in academyFIVE eingepflegte Hochschul-E-Mail-Adresse kann dabei nicht verändert werden.
 
 Für den Nutzerdatenimport nach Koha werden die Daten der Mitarbeiter_innen, aktiven Teilnehmer_innen und aktiven Dozierenden regelmäßig in Koha importiert bzw. mit Koha synchronisiert.
 
 ### 4. Nutzerdatenimport von academyFIVE nach Koha - Probleme und Verbesserungsvorschläge <a name="Nutzerdatenimport" /></a>
 
-Die E-Mail-Adressen der Nutzer_innen werden oft falsch übernommen, d.h. es werden in einigen Fällen nur die privaten E-Mail-Adressen der Teilnehmer_innen und Dozierenden übernommen oder fälschlicherweise E-Mail-Adressen von anderen Studierenden. Wie dies genau zustande kommt, ist aktuell nicht nachvollziehbar. Es wäre von großem Vorteil, wenn man durch eine (vorgeschaltete) Datenanalyse bzw. ein entsprechendes Skript herausfiltern könnte, bei welchen Nutzer_innen die Hochschuladressen fehlen. Da alle Hochschul-E-Mail-Adressen nach dem gleichen Muster aufgebaut sind - mmustermann(at)stud.macromedia.de -, könnte man zudem die Nachnamen der Nutzer_innen mit den Hochschul-E-Mail-Adressen abgleichen, um falsch zugeordnete Adressen herauszufiltern. 
+        # ------- hier fehlt noch eine genauere Beschreibung des Nutzerdatenimports
+
+Die E-Mail-Adressen der Nutzer_innen werden oft falsch übernommen, d.h. es werden in einigen Fällen nur die privaten E-Mail-Adressen der Teilnehmer_innen und Dozierenden übernommen oder fälschlicherweise E-Mail-Adressen von anderen Studierenden. Wie dies genau zustande kommt, ist aktuell nicht nachvollziehbar. Es wäre von großem Vorteil, wenn man durch eine (vorgeschaltete) Datenanalyse bzw. ein entsprechendes Skript herausfiltern könnte, bei welchen Nutzer_innen die Hochschuladressen fehlen. Da alle Hochschul-E-Mail-Adressen nach dem gleichen Muster aufgebaut sind - mmustermann(at)stud.macromedia.de -, könnte man zudem die Nachnamen der Nutzer_innen mit den Hochschul-E-Mail-Adressen abgleichen, um falsch zugeordnete Adressen herauszufiltern. Eine Analyse der fehlerhaften Datensätze ist ggfs. über das Erstellen von Reports möglich, allerdings werden die Fehler dadurch nicht automatisch behoben.
 
 Eine weitere Schwachstelle ist, dass die Registrierungsnummer aus academyFIVE bzw. die Bibliotheksausweisnummer händisch in Koha eingetragen werden muss. Da dieses Vorgehen sehr umständlich ist, wäre es von Vorteil, wenn dieser Prozess automatisiert würde. 
 
 ### Quellen <a name="Quellen" /></a>
 
-academyFive. (o. J.). Abgerufen 9. Mai 2020, von [https://ac5-prod.macromedia.de/home](https://ac5-prod.macromedia.de/home)
+academyFive. (2020). Abgerufen 9. Mai 2020, von [https://ac5-prod.macromedia.de/home](https://ac5-prod.macromedia.de/home)
 
 BSZ. (o.D.). Koha. Abgerufen 05. Mai, 2020, von [https://www.bsz-bw.de/bibliothekssysteme/koha.html](https://www.bszbw.de/bibliothekssysteme/koha.html) 
 
