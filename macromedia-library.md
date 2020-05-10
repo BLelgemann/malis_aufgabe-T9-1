@@ -62,13 +62,9 @@ Das Hauptmenü des Camus-Management-Systems ist bei der Hochschhule Macromedia f
 - Aufgaben
 - Einstellungen.<sup>6</sup>
         
-Allerdings werden nicht alle Bereiche des Systems genutzt, wie z.B. der Bereich *Aufgaben* oder der Bereich *Kursmanagement*, da die Stunden- und Raumplanung über die Stundenplansoftware *WebUntis* organisiert wird.
+Allerdings werden nicht alle Bereiche des Systems genutzt, wie z.B. der Bereich *Aufgaben* oder der Bereich *Kursmanagement*, da die Stunden- und Raumplanung über die Stundenplansoftware *WebUntis* organisiert wird. 
 
-Im Bereich *Kommunikation* findet die E-Mail-Kommunikation mit den Studierenden statt. Im Bereich *Personen* werden Interessenten, Bewerber, Studenten, Alumni und *Benutzerguppen* verwaltet, letzterer Menüpunkt teilt sich auf in *Aktive Autoren*, *Dozenten*, *Externe Kontakte*, *Firmen Kontakte* und *Inaktive*<sup>6</sup>. Jede Person hat, wie bereits erwähnt, eine individuelle academyFIVE-ID. 
-
-Hinter *Internetauftritt* verbirgt sich die *Community* bzw. das Dozierenden- und Studierendenportal *mymacromedia.de*<sup>7</sup>, welches in academyFIVE eingebettet ist. Von da aus können Studierende auf alle studienrelevanten Informationen zugreifen, sich für Prüfungen anmelden und digitale Prüfungsabgaben vornehmen. Dementsprechend ist speziell der Bereich Prüfungs- und Abgabemanagement mit der Community verbunden. Auch die News, die in der Community veröffentlicht werden, werden über academyFIVE abgesetzt.
-
-Im Bereich `Statistik und Berichte` gibt es die Möglichkeit, Reports durchzuführen und den gesamten Datenbestand zu analysieren:
+Im Bereich *Kommunikation* findet die E-Mail-Kommunikation mit den Studierenden statt. Im Bereich *Personen* werden Interessenten, Bewerber, Studenten, Alumni und *Benutzerguppen* verwaltet, letzterer Menüpunkt teilt sich auf in *Aktive Autoren*, *Dozenten*, *Externe Kontakte*, *Firmen Kontakte* und *Inaktive*<sup>6</sup>. Jede Person hat, wie bereits erwähnt, eine individuelle academyFIVE-ID. Hinter *Internetauftritt* verbirgt sich die *Community* bzw. das Dozierenden- und Studierendenportal *mymacromedia.de*<sup>7</sup>, welches in academyFIVE eingebettet ist. Von da aus können Studierende auf alle studienrelevanten Informationen zugreifen, sich für Prüfungen anmelden und digitale Prüfungsabgaben vornehmen. Dementsprechend ist speziell der Bereich Prüfungs- und Abgabemanagement mit der Community verbunden. Auch die News, die in der Community veröffentlicht werden, werden über academyFIVE abgesetzt. Im Bereich *Statistik und Berichte* gibt es die Möglichkeit, Reports durchzuführen und den gesamten Datenbestand zu analysieren:
 
 > . . . mit dem academyFIVE Reporting können Sie alle im System erfassten Daten 
 > auswerten und ausgeben (CVS, XML oder MS-Excel) oder in tabellarischer Form 
@@ -98,19 +94,19 @@ Eine weitere Schwachstelle ist, dass die jeweilige academyFIVE-ID bisher händis
 
 ### Quellen <a name="Quellen" /></a>
 
-<sup>1</sup> _Library Macromedia_, abgerufen am 10. Mai 2020, von https://library.macromedia.de/bibliothek-willkommen/allgemeines/
+<sup>1</sup> Library Macromedia, _Die Macromedia Library_, https://library.macromedia.de/bibliothek-willkommen/allgemeines/, abgerufen am 10. Mai 2020
 
-<sup>2</sup> _BSZ_, abgerufen am 05. Mai, 2020, von [https://www.bsz-bw.de/bibliothekssysteme/koha.html](https://www.bszbw.de/bibliothekssysteme/koha.html) 
+<sup>2</sup> BSZ, _Koha_, [https://www.bsz-bw.de/bibliothekssysteme/koha.html](https://www.bszbw.de/bibliothekssysteme/koha.html), abgerufen am 05. Mai, 2020
 
-<sup>3</sup> _Über Koha_, abgerufen am 10. Mai 2020, von https://macromedia.bsz-bw.de:8080/cgi-bin/koha/about.pl
+<sup>3</sup> _Über Koha_, https://macromedia.bsz-bw.de:8080/cgi-bin/koha/about.pl, abgerufen am 10. Mai 2020
 
-<sup>4</sup> _Koha Wiki_, abgerufen am 10. Mai 2020, von [https://wiki.koha-community.org/wiki/Public_Git_Repositories](https://wiki.koha-community.org/wiki/Public_Git_Repositories)
+<sup>4</sup> _Koha Wiki_, [https://wiki.koha-community.org/wiki/Public_Git_Repositories](https://wiki.koha-community.org/wiki/Public_Git_Repositories), abgerufen am 10. Mai 2020
 
-<sup>5</sup> _Simovative GmbH_, abgerufen am 5. Mai 2020, von [https://www.simovative.com/de/](https://www.simovative.com/de/) 
+<sup>5</sup> Simovative GmbH, _Campus Management mit academyFIVE_, [https://www.simovative.com/de/](https://www.simovative.com/de/), abgerufen am 5. Mai 2020 
 
-<sup>6</sup> _academyFIVE_, abgerufen am 9. Mai 2020, von [https://ac5-prod.macromedia.de/home](https://ac5-prod.macromedia.de/home)
+<sup>6</sup> _academyFIVE_, [https://ac5-prod.macromedia.de/home](https://ac5-prod.macromedia.de/home), abgerufen am 9. Mai 2020
 
-<sup>7</sup> _My Macromedia_ Abgerufen 9. Mai 2020, von [https://my.macromedia.de](https://my.macromedia.de) 
+<sup>7</sup> Hochschule Macromedia, _my.macromedia.de_, [https://my.macromedia.de](https://my.macromedia.de), abgerufen am 9. Mai 2020 
 
 
     #Benutzerstatistiken. (o. J.). Abgerufen 10. Mai 2020, von https://macromedia.bsz-bw.de:8080/cgi-bin/koha/reports/borrowers_stats.pl
