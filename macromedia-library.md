@@ -80,8 +80,8 @@ Das System ermöglicht es somit auch, Entscheidungsprozesse zu optimieren: `Hier
 Die Datenpflege und Aktualisierung wird durch die Verwaltungsmitarbeiter der Hochschule vorgenommen. Diese haben, je nach Zuständigkeit bzw. Abteilung, unterschiedliche Zugriffsrechte. Ferner können Studierende und Dozierende ihre Kontaktdaten über die Community selbstständig aktualisieren. Die in academyFIVE eingepflegte Hochschul-E-Mail-Adresse kann dabei nicht verändert werden.
 
 Für den Nutzerdatenimport nach Koha werden die Daten der Mitarbeiter_innen, aktiven Teilnehmer_innen und aktiven Dozierenden regelmäßig in Koha importiert bzw. mit Koha synchronisiert.
-
-### 4. Nutzerdatenimport von academyFIVE nach Koha - Probleme und Verbesserungsvorschläge <a name="Nutzerdatenimport" /></a>
+<a name="Nutzerdatenimport" /></a>
+### 4. Nutzerdatenimport von academyFIVE nach Koha - Probleme und Verbesserungsvorschläge 
 
 Die E-Mail-Adressen der Nutzer_innen werden oft falsch übertragen, d.h. es werden in einigen Fällen nur die privaten E-Mail-Adressen der Teilnehmer_innen und Dozierenden übernommen oder fälschlicherweise E-Mail-Adressen von anderen Studierenden. Wie dies genau zustande kommt, ist aktuell nicht nachvollziehbar. Es wäre von großem Vorteil, wenn man durch eine (vorgeschaltete) Datenanalyse bzw. ein entsprechendes Skript herausfiltern könnte, bei welchen Nutzer_innen die Hochschuladressen fehlen. Da alle Hochschul-E-Mail-Adressen nach dem gleichen Muster aufgebaut sind - mmustermann(at)stud.macromedia.de -, könnte man zudem die Nachnamen der Nutzer_innen mit den Hochschul-E-Mail-Adressen abgleichen, um falsch zugeordnete Adressen herauszufiltern. Eine Analyse der fehlerhaften Datensätze ist ggfs. über das Erstellen von Reports möglich. Aktuell fehlt bei dem Report zur Erstellung von Benutzerstatistiken  eine Filtermöglichkeit nach E-Mail-Adressen (Abb. 2). 
 
