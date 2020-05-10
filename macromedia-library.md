@@ -15,7 +15,7 @@
 
 ### 1. Organisationsstruktur der Macromedia Library <a name="macromedialibrary" /></a>
 
-Die Hochschule Macromedia hat insgesamt sieben Standorte in ganz Deutschland, mit jeweils einer physischen Bibliothek. Die Standortbibliotheken teilen einen OPAC, der über das Bibliothekssystem Koha bereitgestellt wird. Da sowohl das Bibliothekspersonal als auch die IT-Abteilung je Standort in der Regel nur mit einer Person besetzt wird und die zentrale IT-Abteilung hauptsächlich mit der Wartung des Firmenservers beschäftigt ist, werden IT-bezogene Bibliotheksdienste generell durch externe Anbieter gewartet. So wird das Bibliothekssystem Koha bzw. die dahinterliegende Datenbank durch das Bibliotheksservice-Zentrum Baden-Württemberg (BSZ) gehostet. 
+Die Hochschule Macromedia hat mehrere Standorte in Deutschland, mit jeweils einer physischen Bibliothek. Alle Standortbibliotheken teilen einen OPAC (Macromedia Library, 2019), der über das Open-Source-Bibliothekssystem Koha bereitgestellt wird. Da sowohl das Bibliothekspersonal als auch die IT-Abteilung je Standort in der Regel nur mit einer Person besetzt wird und die zentrale IT-Abteilung hauptsächlich mit der Wartung des Firmenservers beschäftigt ist, werden IT-bezogene Bibliotheksdienste generell durch externe Anbieter betreut. So wird das Koha bzw. die dahinterliegende Datenbank durch das Bibliotheksservice-Zentrum Baden-Württemberg (BSZ) gehostet. 
   
 ### 2. Das Macromedia Library Bibliothekssystem <a name="Bibliothekssystem" /></a>
 
@@ -106,6 +106,8 @@ Benutzerstatistiken. (o. J.). Abgerufen 10. Mai 2020, von https://macromedia.bsz
 BSZ. (o.D.). Koha. Abgerufen 05. Mai, 2020, von [https://www.bsz-bw.de/bibliothekssysteme/koha.html](https://www.bszbw.de/bibliothekssysteme/koha.html) 
 
 Hochschule Macromedia. (o. J.). My Macromedia. Abgerufen 9. Mai 2020, von [https://my.macromedia.de](https://my.macromedia.de) 
+
+Library Macromedia. (2019). Allgemeines | Bibliothek Hochschule Macromedia. Abgerufen 10. Mai 2020, von https://library.macromedia.de/bibliothek-willkommen/allgemeines/
 
 Public Git Repositories - Koha Wiki. (2019, Oktober 1). Abgerufen 10. Mai 2020, von [https://wiki.koha-community.org/wiki/Public_Git_Repositories](https://wiki.koha-community.org/wiki/Public_Git_Repositories)
 
