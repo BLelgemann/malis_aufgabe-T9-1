@@ -1,5 +1,4 @@
 ## Der Nutzerdatenimport von der Campus Management Software *academyFIVE* in das Bibliotheksystem *KOHA* der Macromedia Library
-#### MALIS SS2020, Aufgabe WPM_T9.1 (Prof. Dr. Konrad Förstner)
 
 #### Inhalt
 1. [Organisationsstruktur der Macromedia Library](#macromedialibrary)  
